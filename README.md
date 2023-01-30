@@ -1,2 +1,2 @@
 # Vpython_Simulation
-A collection of various simulation projects contained within a Jupyter Notebook written in vpython
+A collection of various simulation projects each contained within a Jupyter Notebook written in vpython
